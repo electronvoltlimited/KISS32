@@ -4,6 +4,8 @@ A KISS TNC implementation for the ESP32.
 
 The purpose of this project is to build an ESP32 based, Arduino IDE programmable, AX.25 TNC with communication over WiFi, BLE, and UART using the KISS TNC protocol. It is intended to work with almost any radio by providing an AFSK output and input. It is likely that a separate hardware design will also be developed to make use of this software.
 
+Initially, it is intended for this software to be targeted at APRSdroid using KISS TNC mode and an Adafruit ESP32 Feather as the basic hardware implementation.
+
 ### Ideas (to be implemented, in no particular order):
 * Kiss TNC Protocol (http://www.ka9q.net/papers/kiss.html) via
   * UART
