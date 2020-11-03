@@ -2,7 +2,7 @@
 
 A KISS TNC implementation for the ESP32.
 
-The purpose of this project is to build an ESP32 based, Arduino IDE programmable, AX.25 TNC with communication over WiFi (telnet?), BLE, and UART using the KISS TNC protocol. It is intended to work with almost any radio by providing an AFSK output and input. It is likely that a separate hardware design will also be developed to make use of this software.
+The purpose of this project is to build an ESP32 based, Arduino IDE programmable, AX.25 TNC with communication over WiFi, BLE, and UART using the KISS TNC protocol. It is intended to work with almost any radio by providing an AFSK output and input. It is likely that a separate hardware design will also be developed to make use of this software.
 
 ### Ideas (to be implemented, in no particular order):
 * Kiss TNC Protocol (http://www.ka9q.net/papers/kiss.html) via
