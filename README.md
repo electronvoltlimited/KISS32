@@ -7,8 +7,8 @@ The purpose of this project is to build an ESP32 based, Arduino IDE programmable
 ### Ideas (to be implemented, in no particular order):
 * Kiss TNC Protocol (http://www.ka9q.net/papers/kiss.html) via
   * UART
-  * BLE
-  * WiFi (telnet?)
+  * Bluetooth SPP
+  * WiFi (Raw TCP/IP)
   * USB Serial
 * AFSK
   * Decoding
